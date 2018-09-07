@@ -1,4 +1,4 @@
-Optical Flow :
+**Optical Flow :**
 
 Is the pattern of apparent motion of objects , surfaces , and edges in a visual scene due to the relative motion between the scene and the observer. This concept was introduced by American Psychologist James Gibson to describe the concept visual stimulus provided to animal moving through the world.
 This term is used by roboticist encompassing related techniques from image processing and control of navigation including motion detection , object segmentation , motion compensated encoding and stereo disparity measurement.
