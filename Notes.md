@@ -51,5 +51,13 @@ Other applications of optical flow includes :
  ** Motion interpolation ** (source : wiki)
  
  Motion interpolation is a common, optional feature of various modern display devices such as HDTVs and video players, aimed at _increasing perceived framerate or alleviating display motion blur, a common problem on LCD flat-panel displays._
- 
 
+(Adv Machine Learning Coursera : image analysis):-
+Uses of optical flow is in video analysis.
+Optical flow is : apparent flow of _pixels_ between the frames.
+
+Deep Learning in optical Flow :
+FlowNet : has twon architecture.
+a) 2 images are concatenated into a single image with six channels instead of three.This image is then passed
+through the convolutional neural network.
+b) The siamese architecture. The two frames passed through a CNN separetely for future computation. 
