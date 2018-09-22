@@ -110,3 +110,5 @@ The problem can be divided into the below following parts.
 
 
 3. Training the model to solve the issue.
+
+Note : Code up in Tensorflow so that it can be deployed , on the Internet.
