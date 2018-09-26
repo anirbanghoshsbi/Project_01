@@ -112,3 +112,7 @@ The problem can be divided into the below following parts.
 3. Training the model to solve the issue.
 
 Note : Code up in Tensorflow so that it can be deployed , on the Internet.
+
+Date : 26/09/2018
+Solved part of the puzzle , stuck with the warping function. I simply am not getting it. It is so stressful , long hours no results.
+I donot even know where to ?!?
